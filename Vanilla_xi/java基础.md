@@ -1104,6 +1104,8 @@ public class myList {
 
 * 查询慢，增删快
 
+  
+
 
 
 ## 二叉树
